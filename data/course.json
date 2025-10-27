@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "aeebd6c7-6b74-371f-4b65-742ba2d56f22",
+  "instructors": {
+    "content": [
+      "c03f2fc6-bc6a-e647-a7b1-3baa451f2a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9ac6826b-b038-07b1-d496-357d73e11b31",
+    "website": "21h-342-the-royal-family-fall-2003"
+  },
+  "course_title": "The Royal Family",
+  "course_description": "This course is an an exploration of British culture and politics, focusing on the changing role of the monarchy from the accession of the House of Hanover (later Windsor) in 1714 to the present. The dynasty has encountered a series of crises, in which the personal and the political have been inextricably combined: for example, George III's mental illness; the scandalous behavior of his son, George IV; Victoria's withdrawal from public life after the death of Prince Albert; the abdication of Edward VIII; and the public antagonism sparked by sympathy for Diana, Princess of Wales.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.342",
+  "course_image_thumbnail": {
+    "content": "7cacfa2e-1f1f-b6c8-c5ca-0e0efac827fa",
+    "website": "21h-342-the-royal-family-fall-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "a3db1fe9-adc5-4e8a-9b81-cfd401be43fc",
+  "site_short_id": "21h.342-fall-2003",
+  "site_url_path": "courses/21h-342-the-royal-family-fall-2003",
+  "title": "Course Metadata"
+}
